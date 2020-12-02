@@ -1,1 +1,1 @@
-# NYU intro to programming CSCI-UA.2 coursework
+# NYU python programming CSCI-UA.2 coursework
